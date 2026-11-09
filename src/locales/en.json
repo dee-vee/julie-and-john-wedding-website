@@ -1,0 +1,79 @@
+{
+  "title": "Julie & John",
+  "coverAlt": "Julie and John embracing outdoors",
+  "scrollToStory": "Scroll to Our Story",
+  "invitationWelcome": "WELCOME TO THE WEDDING OF",
+  "weddingDate": "November 27, 2027",
+  "weddingLocation": "Changsha, China",
+  "language": "Site language",
+  "eyebrow": "THE WEDDING OF",
+  "intro": "We can’t wait to celebrate with you.",
+  "note": "Use the menu to explore the wedding weekend. Details are coming soon.",
+  "navigation": "Wedding website",
+  "sections": {
+    "about": {
+      "storyTitle": "OUR STORY",
+      "title": "About us",
+      "body": "A little about how we met and the moments that brought us here. Our story is coming soon."
+    },
+    "events": {
+      "title": "Schedule",
+      "body": "We look forward to celebrating both events with you.",
+      "ceremony": {
+        "title": "Wedding ceremony",
+        "body": "Ceremony time, venue, and arrival details are coming soon."
+      },
+      "reception": {
+        "title": "Reception",
+        "body": "The reception follows the ceremony. Location and timing are coming soon."
+      },
+      "dress-code": {
+        "title": "Dress code",
+        "body": "We’ll share the dress code and any venue-specific tips here so you can plan what to wear."
+      },
+      "weather": {
+        "title": "Weather",
+        "body": "We’ll share what weather to expect and which parts of the celebration will be indoors or outdoors."
+      }
+    },
+    "travel": {
+      "title": "Travel",
+      "body": "We’ll share the best ways to plan your trip once the location is confirmed.",
+      "flights": {
+        "title": "Flight Information",
+        "body": "We’ll share which airports to fly into and how to get from the airport to your hotel or the wedding venue.",
+        "directions": {
+          "title": "How to get there",
+          "body": "Look here for the venue address, nearby airports or stations, and parking or transportation details."
+        }
+      },
+      "hotel": {
+        "title": "Hotel Details",
+        "body": "We’ll list nearby places to stay and share any hotel room block details here.",
+        "booking": {
+          "title": "How to book a hotel",
+          "body": "Booking links, room block codes, and reservation deadlines will be posted here when available."
+        }
+      },
+      "activities": {
+        "title": "What to Do There",
+        "body": "We’ll add our favorite places to eat, sights to see, and ideas for any free time during the wedding weekend."
+      }
+    },
+    "rsvp": {
+      "title": "RSVP",
+      "body": "RSVPs will open once invitations are ready. Each household will use its invitation link or code to tell us who can attend. The reply deadline will be posted here."
+    },
+    "faq": {
+      "title": "FAQ",
+      "body": "We’ll add answers to frequently asked questions here as the wedding plans come together."
+    }
+  },
+  "home": {
+    "title": "Home"
+  },
+  "missingPage": {
+    "title": "Page not found",
+    "body": "Choose a page from the menu to keep exploring."
+  }
+}

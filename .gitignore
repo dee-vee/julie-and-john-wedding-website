@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Wedding website (Vite and Cloudflare)
+node_modules/
+.env*
+.dev.vars*
+.wrangler/
+.DS_Store
